@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hello Neighbor Mr. Peterson (HN RELEASE)
+* source:	https://sketchfab.com/3d-models/hello-neighbor-mr-peterson-hn-release-367d8e7c1a8d43928967918b0c788389
+* author:	Спасибо большое! (https://sketchfab.com/kirichenkoalena2018)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hello Neighbor Mr. Peterson (HN RELEASE)" (https://sketchfab.com/3d-models/hello-neighbor-mr-peterson-hn-release-367d8e7c1a8d43928967918b0c788389) by Спасибо большое! (https://sketchfab.com/kirichenkoalena2018) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
